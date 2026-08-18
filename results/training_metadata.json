@@ -1,0 +1,27 @@
+{
+    "dataset": "datasets/bb84_dataset_10M.csv",
+    "quick_mode": false,
+    "training_rows": 8000000,
+    "testing_rows": 2000000,
+    "features": [
+        "qber",
+        "noise_level",
+        "photon_loss_rate",
+        "detection_rate",
+        "plus_basis_qber",
+        "cross_basis_qber",
+        "qber_variation"
+    ],
+    "excluded_feature": "interception_probability",
+    "dataset_load_time_seconds": 9.688955700024962,
+    "total_execution_time_seconds": 1349.9095997996628,
+    "random_state": 42,
+    "completed_models": [
+        "Decision Tree",
+        "Random Forest",
+        "Logistic Regression",
+        "Linear SVM",
+        "XGBoost"
+    ],
+    "failed_models": []
+}

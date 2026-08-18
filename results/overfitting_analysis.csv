@@ -1,0 +1,2 @@
+Model,Training Accuracy,Testing Accuracy,Accuracy Gap,Training Precision,Testing Precision,Training Recall,Testing Recall,Training F1,Testing F1,CV Mean Accuracy,CV Standard Deviation,False Positives,False Negatives,Training Time (s),Cross Validation Time (s)
+Random Forest,0.9999875,0.9891,0.01088750000000005,1.0,0.9926507600926205,0.9999750137424417,0.9855072463768116,0.9999875067151406,0.9890661049252684,0.9898625000000001,0.0005609701418079212,73,145,3.7386581897735596,15.605462074279785
